@@ -25,8 +25,13 @@ hashedvalue = HL.Hash(value, key);
 
 # Found this useful drop some tips
 BTC: 3ELnV2YudPrYHmoxcSFHoLJVioVHtBLNyC
+
 ETH: 0xd0559695c5E8907beE93Ddada87647f887F536c0
+
 XRP: rw2ciyaNshpHe7bCHo4bRWq6pqqynnWKQg TAG: 3752863116
+
 LTC: MNNvm3VWCRV22pQvVxDqeVb3EA5nSuCAZD
+
 LINK: 0x21a61Ef34B058FD873bF18f848e543aF076d3A86
+
 XTZ: tz1ZvktvngLFhpyr8JLzESWAcEJaXqQhkvUj
