@@ -28,7 +28,7 @@ If you use GCC you shouldn't have any problem.
 
 However ***if you use VC++ compiler you'll have to uncomment line 67 and comment line 68 inside CBHL.cpp***
 
-# Found this useful drop some tips
+# Found this useful (buy me a coffee)
 BTC: 3ELnV2YudPrYHmoxcSFHoLJVioVHtBLNyC
 
 ETH: 0xd0559695c5E8907beE93Ddada87647f887F536c0
