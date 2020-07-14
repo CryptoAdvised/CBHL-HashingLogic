@@ -1,10 +1,10 @@
 /****************************************************************************/
 /*FICHIER:      CBHL.cpp                                                    */
-/*AUTOR:        Colin Bouchard                      				        */
+/*AUTOR:        Colin Bouchard                                              */
 /*DATE:         09/07/2020                                                  */
 /*DESCRIPTION:  This library offer the Hashing Logic.                       */
-/*				                                                            */
-/*				This is for learning purpose.                               */
+/*                                                                          */
+/*              This is for learning purpose.                               */
 /****************************************************************************/
 
 #include <stdio.h>
