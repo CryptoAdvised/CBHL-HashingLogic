@@ -1,2 +1,29 @@
 # CBHL-HashingLogic
-This library offer an overview of Hashing Logic. It is capable of generating a hashed value of with relativly low chance of collision. It is both simple and easy to use.
+This library offer an overview of Hashing Logic in C++. It is capable of generating a hashed value of with relativly low chance of collision. It is both simple and easy to use. It is mostly a hahsing function and does not contain a hashing table.
+
+# How to use it
+1. Copy CBHL.cpp and CBHL.hpp to your project directory.
+2. Use this code where you need it:
+```c++
+[...]
+#include <string>
+#include "CBHL.hpp"
+#include "CBEDS.hpp"
+
+CBHL::HashingLogic HL;
+string value = "this value to hash.", 
+       key = "this key to use."; 
+       hashedvalue;
+
+[...]
+hashedvalue = HL.Hash(value, key);  
+[...]
+```
+
+# Found this useful drop some tips
+BTC: 3ELnV2YudPrYHmoxcSFHoLJVioVHtBLNyC
+ETH: 0xd0559695c5E8907beE93Ddada87647f887F536c0
+XRP: rw2ciyaNshpHe7bCHo4bRWq6pqqynnWKQg TAG: 3752863116
+LTC: MNNvm3VWCRV22pQvVxDqeVb3EA5nSuCAZD
+LINK: 0x21a61Ef34B058FD873bF18f848e543aF076d3A86
+XTZ: tz1ZvktvngLFhpyr8JLzESWAcEJaXqQhkvUj
