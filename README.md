@@ -24,7 +24,9 @@ hashedvalue = HL.Hash(value, key);
 ```
 
 # Compiler
-If you use GCC you shouldn't have any problem. However ***if you use VC++ compiler you'll have to uncomment line 67 and comment line 68 using //***
+If you use GCC you shouldn't have any problem. 
+
+However ***if you use VC++ compiler you'll have to uncomment line 67 and comment line 68 inside CBHL.cpp***
 
 # Found this useful drop some tips
 BTC: 3ELnV2YudPrYHmoxcSFHoLJVioVHtBLNyC
