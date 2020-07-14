@@ -13,7 +13,7 @@ This library offer an overview of Hashing Logic in C++. It is capable of generat
 
 CBHL::HashingLogic HL;
 string value = "this value to hash.", 
-       key = "this key to use."; 
+       key = "this key to use.", 
        hashedvalue;
 
 [...]
