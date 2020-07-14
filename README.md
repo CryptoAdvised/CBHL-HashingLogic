@@ -6,6 +6,7 @@ This library offer an overview of Hashing Logic in C++. It is capable of generat
 2. Use this code where you need it:
 ```c++
 [...]
+
 #include <string>
 #include "CBHL.hpp"
 #include "CBEDS.hpp"
@@ -16,7 +17,9 @@ string value = "this value to hash.",
        hashedvalue;
 
 [...]
+
 hashedvalue = HL.Hash(value, key);  
+
 [...]
 ```
 
