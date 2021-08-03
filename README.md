@@ -1,5 +1,5 @@
 # CBHL-HashingLogic
-This library offer an overview of Hashing Logic in C++. It is capable of generating a hashed value with relatively low chance of collision. It is both simple and easy to use. It is mostly a hahsing function and does not contain a hashing table.
+This library offer an overview of Hashing Logic in C++. It is capable of generating a hashed value with relatively low chance of collision. It is both simple and easy to use. It is mostly a hashing function and does not contain a hashing table.
 
 # How to use it
 1. Copy CBHL.cpp and CBHL.hpp to your project directory.
